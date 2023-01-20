@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    width: 100%;
+    background-color: rgb(222, 209, 235);
+}
+.container
+{
+    background-color: aqua;
+    width: 50%;
+    border-radius: 8px;
+}
+img
+{
+    border-radius: 19%;
+}
+input
+{
+    border-radius: 19%;
+}
+
+
